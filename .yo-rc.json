@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "https://github.com/oleksandrbazil/sun-frontend-app",
+    "project_destination_path": "sun-frontend-app",
+    "application_name": "sunFrontEnd",
+    "project_technology": "frontend-deployment",
+    "api_url": ""
+  }
+}
